@@ -56,4 +56,4 @@ var sum = Math.round(num)
 // => March.random shows random number between 0 and 1.
 Ex: var lotery = Math.random(lotery)
 
-// asignment.js - GitHub Link 
+// asignment.js - GitHub Link https://github.com/juwel164/assignment
